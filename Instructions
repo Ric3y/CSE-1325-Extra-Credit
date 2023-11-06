@@ -1,0 +1,9 @@
+[5 points] Problem set - Classes Object Oriented Programming, 1325 Deadline: 8 November 2023; 4PM
+Solution should be given for all 3 problems to gain the 5 points. All solutions must be with user inputs. You must have a separate class for implementation and testing.
+Any kind of plagiarism of the problem set will be graded with 0.
+You have 5 days to complete.
+This is NOT MANDATORY.
+Good luck!
+1. Write a class EMPLOYEE that will represent an employee with following private members (attributes): name; salary and working position (which can be salesperson, manager, or owner). The class should have getters, setters, constructor/s. Show the implementation where from the user you will input data for n employees, and then print a list of employees sorted in ascending order by the salary.
+2. Write a class EMAIL that defines an e-mail message (From; To; Cc; Bcc; Subject; Body – private members). The class should have getters, setters, constructor/s. Implement public method for showing the contents of the message on the screen. Show the implementation where the parameters of the message are read from user. Then print the message where the validity of the e-mail address/es in From, To, Cc, and Bcc fields should be checked with existence of the '@' character.
+3. Write a class that represents a WEBSERVER. For each web server store: name; web page url; and contents. All member data should be private. The class should have getters, setters, constructor/s. In the class also implement the following methods: webPageEquals - for comparing two web pages by their url; webPageAdd - for adding new web page if it doesn't exist already; webPageUpdate - for updating a web page from the server if it exists. Show implementation, with a proper menu available for selecting a choice for above functions. Exit program also to be added as a menu choice for the user too.
